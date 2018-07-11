@@ -1,0 +1,21 @@
+﻿
+*{color:white;}
+html,
+body,
+header,
+#intro{
+    height:100%;
+}
+#intro{
+   background: url("../images/carousel_images/image12.jpg")no-repeat center center fixed;
+   background-size: cover;
+   
+}
+.form-conatiner {
+    border: 0px solid #fff;
+    padding: 50px 60px;
+    margin-top: 15vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
